@@ -1,0 +1,6 @@
+__pycache__/
+.env
+generated/
+history/projects.json
+*.pyc
+.streamlit/
